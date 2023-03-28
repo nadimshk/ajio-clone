@@ -4,7 +4,7 @@
 
 We have created the clone of Ajio.com with all it's main functions like- login & signup, search product, sort product, add product to cart, buy product etc.
 
-## To visit our website [Click here](https://ajioproject.netlify.app/)
+## To visit our website [Click here](https://calm-cassata-3cee9d.netlify.app/)
 
 ### Screenshots
 ![alt text](https://github.com/vshubhams/Ajio-clone/blob/master/screenshots/Screenshot%20(65).png)
